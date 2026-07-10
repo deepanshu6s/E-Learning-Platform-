@@ -1,1 +1,1 @@
-will upload on aws soon
+will deploy on aws soon
